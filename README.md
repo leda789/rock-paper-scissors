@@ -1,1 +1,1 @@
-# rock-paper-scissors
+This page is to show a basic understanding of the logic and looping of Javascript.
